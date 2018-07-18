@@ -1,1 +1,59 @@
+#nghia {
+  background: #6266d7;
+  height: 550px;
+}
+#nghia #n1 {
+  background: none;
+  height: 80px;
+}
+#nghia #n1 .fas {
+  width: 50%;
+  display: block;
+  text-align: center;
+}
+#nghia #n1 .fas span {
+  color: #fff;
+  font-size: 25px;
+}
+#nghia #n2 {
+  background: none;
+  height: 470px;
+}
+#nghia #n2 .image00 {
+  position: absolute;
+  top: -10%;
+  left: 65%;
+  margin-left: 15px;
+  z-index: 5;
+  will-change: transform;
+}
+#nghia #n4 {
+  padding: 10%;
+}
+#nghia #n4 h1 {
+  color: #fff;
+}
+#nghia #n4 p {
+  color: #fff;
+}
+#nghia #n4 .btn,
+#nghia #n4 margin:0px auto,
+#nghia #n4 background white,
+#nghia #n4 color blue,
+#nghia #n4 padding-left 10px,
+#nghia #n4 .btn:hover {
+  background: #00f;
+  color: #fff;
+}
+#nghia #n5 {
+  height: 140px;
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url("http://lightbridge.io/_/css/../img/wave.png") no-repeat center bottom;
+  background-size: auto 180px;
+}
 
