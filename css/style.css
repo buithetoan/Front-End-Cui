@@ -1,1 +1,35 @@
-
+/* Dat */
+.nen {
+  height: 610px;
+  border-bottom: 1px solid #192535;
+  height: 610px;
+  align-items: center;
+  position: relative;
+  background: #141e2b;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 10%;
+}
+.nen .text {
+  height: 368px;
+  float: left;
+}
+.nen .text .textleft {
+  height: 368px;
+  float: left;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+.nen .text .textleft .icon01 {
+  margin-bottom: 45px;
+}
+.nen .text .textleft h2 {
+  margin-bottom: 25px;
+  color: #a969e0;
+  font-size: 36px;
+}
+.nen .text .textleft p {
+  color: #545a65;
+  margin-bottom: 15px;
+}
+/* End Dat */
