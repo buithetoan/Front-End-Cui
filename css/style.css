@@ -1,2 +1,75 @@
-#khung{width:100%}#khung .box1{width:100%}#khung .box2{width:100%}#khung .box3{width:100%}#khung .box4{width:100%}#khung .box5{width:100%}#khung .box6{width:100%}
-/*# sourceMappingURL=style.css.map */
+#khung {
+  width: 100%;
+}
+#khung .box1 {
+  width: 100%;
+}
+#khung .box2 {
+  width: 100%;
+}
+#khung .box3 {
+  width: 100%;
+}
+#khung .box4 {
+  width: 100%;
+}
+#khung .box5 {
+  width: 100%;
+}
+#khung .box6 {
+  width: 100%;
+}
+#khung .box6 .hai {
+  background: #141e2b;
+  text-align: center;
+  height: 300px;
+  color: #fff;
+  width: 100%;
+}
+#khung .box6 .hai .hai00 {
+  width: 90%;
+  height: 1px;
+  opacity: 0.1;
+  background: #fff;
+  margin-left: 5%;
+  margin-top: 30px;
+}
+#khung .box6 .hai .btn-success {
+  margin-top: 20px;
+  background: #fff;
+  width: 145px;
+  height: 45px;
+  font-size: 14px;
+  letter-spacing: 0.04em;
+  color: #00f;
+  font-weight: bold;
+  border-color: #fff;
+}
+#khung .box6 .hai .btn-success:hover {
+  background: #00f;
+  border-color: #00f;
+  color: #fff;
+}
+#khung .box6 .hai .hai12 {
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 46px;
+  line-height: 60px;
+  font-weight: 400;
+}
+#khung .box6 .hai1 {
+  padding-left: 30px;
+  color: #fff;
+}
+#khung .box6 .hai111 img {
+  width: 70%;
+  height: 70%;
+}
+#khung .box6 .hai1111 {
+  color: #fff;
+}
+#khung .box6 .hai0001 {
+  width: 100%;
+  height: 100px;
+  background: #141e2b;
+}
