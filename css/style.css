@@ -1,6 +1,237 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #khung{width:100%}#khung .box1{width:100%}#khung .box2{width:100%}#khung .box3{width:100%}#khung .box4{width:100%}#khung .box5{width:100%}#khung .box6{width:100%}
 =======
 #khung .box4 #box4-t .box-left .box-style .box-style-sm .s1-1,#khung .box4 #box4-t .box-left .box-style .box-style-sm .s1-2,#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2-1,#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3-2,.box-sm1{width:20%;height:100%;float:left}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2-2,#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3-1,.box-sm2{width:60%;float:left;height:100%}#khung{width:100%}#khung .box1{width:100%}#khung .box2{width:100%}#khung .box3{width:100%}#khung .box4 #box4-t{background:rgba(0,0,0,0.75);width:100%;height:500px}#khung .box4 #box4-t .box-left{width:100%;height:500px}#khung .box4 #box4-t .box-left .box-style{width:100%;height:250px;margin-top:20%;padding-left:10%;position:relative}#khung .box4 #box4-t .box-left .box-style i{width:30px;height:30px;border-radius:50%;border:solid 1px #2dc;color:#2dc;text-align:center;line-height:30px;background:#f2f2f2;position:absolute;top:-10px;right:0}#khung .box4 #box4-t .box-left .box-style .box-style-sm{width:80%;height:30%;background:#4286f4;margin-left:20%}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s1{width:20%;height:100%;float:left;background:#4286f4}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2{width:60%;float:left;height:100%;background:-webkit-gradient(linear, left top, left bottom, color-stop(50%, #2dc), color-stop(50%, #4286f4));background:-webkit-linear-gradient(#2dc 50%, #4286f4 50%);background:-o-linear-gradient(#2dc 50%, #4286f4 50%);background:linear-gradient(#2dc 50%, #4286f4 50%)}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3{width:20%;height:100%;float:left;background:#2dc}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s1-1{background:#2dc}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2-1{background:#03a830}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3-1{background:-webkit-gradient(linear, left top, left bottom, color-stop(50%, #d6e22b), color-stop(50%, #03a830));background:-webkit-linear-gradient(#d6e22b 50%, #03a830 50%);background:-o-linear-gradient(#d6e22b 50%, #03a830 50%);background:linear-gradient(#d6e22b 50%, #03a830 50%)}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s1-2{background:#2dc}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2-2{background:#4286f4}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3-2{background:#d6e22b}#khung .box4 #box4-t .box-left .box-content{width:100%;height:20%;margin-top:45%}#khung .box4 #box4-t .box-left .box-content h1{color:#03a830}#khung .box4 #box4-t .box-left .box-content p{color:#808080}#khung .box4 #box4-t .box-right{width:100%;height:500px}#khung .box4 #box4-t .box-right i{width:50px;height:50px;background:#03a830;color:#fff;border-radius:20%;text-align:center;font-size:25px;line-height:50px;margin-top:10%;margin-bottom:3%}#khung .box4 #box4-t .box-right h2{color:#03a830;margin-bottom:3%}#khung .box4 #box4-t .box-right p{color:#808080;font-size:12pt}#khung .box5{width:100%}#khung .box6{width:100%}
 >>>>>>> cac85a6e281bdf9c5dd9e8ca50df0d093b09af63
 /*# sourceMappingURL=style.css.map */
+=======
+
+#cong {
+  background: #141e2b;
+  height: 610px;
+  position: absolute;
+}
+#cong #cong1 {
+  height: 100%;
+}
+#cong #cong1 #cong2 {
+  float: left;
+  height: 100%;
+  width: 50%;
+}
+#cong #cong1 #cong2 #cong3 {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+#cong #cong1 #cong2 #cong3 #cong4 {
+  background: #4a8fe0;
+  width: 13%;
+  height: 10%;
+  margin-top: 20%;
+  border-radius: 10%;
+}
+#cong #cong1 #cong2 #cong3 #cong4 #c1 {
+  font-size: 300%;
+  color: #fff;
+  background: #4a8fe0;
+  margin-left: 20%;
+  margin-top: 8%;
+}
+#cong #cong1 #cong2 #cong3 h2 {
+  margin: 0;
+  padding: 0;
+  width: 90%;
+  color: #4990e1;
+  font-size: 30pt;
+  margin-top: 7%;
+}
+#cong #cong1 #cong2 #cong3 p {
+  color: #868891;
+  font-size: 100%;
+  margin-top: 7%;
+  width: 90%;
+}
+#cong #cong1 #cong21 {
+  float: right;
+  position: relative;
+  height: 100%;
+  width: 50%;
+  background: #ffc0cb;
+  background-repeat: none;
+  background-size: cover;
+}
+#cong #cong1 #cong21 #cc {
+  display: block;
+  width: 24.55%;
+  height: 24.55%;
+  position: absolute;
+  left: 245px;
+  top: 245px;
+}
+#cong #cong1 #cong21 #cc #octagon {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc #octagon2 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(45deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc #octagon1 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(90deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc #octagon3 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(135deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc #ccc {
+  float: left;
+  width: 60%;
+  height: 60%;
+  position: absolute;
+  top: 20%;
+  left: -10px;
+}
+#cong #cong1 #cong21 #cc #ccc i {
+  float: left;
+  width: 55%;
+  height: 50%;
+  background: #3279cb;
+  font-size: 200%;
+  color: #fff;
+  padding-top: 10%;
+  padding-left: 10%;
+  margin-left: 25%;
+  border-radius: 50%;
+}
+#cong #cong1 #cong21 #cc #ccc p {
+  float: left;
+  width: 100%;
+  height: 50%;
+  color: #fff;
+  margin-top: 10%;
+  font-size: 14pt;
+}
+#cong #cong1 #cong21 #cc1 {
+  display: block;
+  width: 24.55%;
+  height: 24.55%;
+  position: absolute;
+  left: 350px;
+  top: 350px;
+  opacity: 0.1;
+}
+#cong #cong1 #cong21 #cc1 #octagon {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc1 #octagon2 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(45deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc1 #octagon1 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(90deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc1 #octagon3 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(135deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc2 {
+  display: block;
+  width: 24.55%;
+  height: 24.55%;
+  position: absolute;
+  left: 140px;
+  top: 140px;
+  opacity: 0.1;
+}
+#cong #cong1 #cong21 #cc2 #octagon {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc2 #octagon2 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(45deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc2 #octagon1 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(90deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc2 #octagon3 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(135deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc3 {
+  display: block;
+  width: 24.55%;
+  height: 24.55%;
+  position: absolute;
+  left: 140px;
+  top: 350px;
+  opacity: 0.1;
+}
+#cong #cong1 #cong21 #cc3 #octagon {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc3 #octagon2 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(45deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc3 #octagon1 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(90deg);
+  position: absolute;
+}
+#cong #cong1 #cong21 #cc3 #octagon3 {
+  width: 45%;
+  height: 100%;
+  background: #4990e2;
+  transform: rotate(135deg);
+  position: absolute;
+}
+>>>>>>> 7887f8d1409d287a82e65ed8dbf0e1af279ddcdd
