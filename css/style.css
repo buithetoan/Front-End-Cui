@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #khung{width:100%}#khung .box1{width:100%}#khung .box2{width:100%}#khung .box3{width:100%}#khung .box4{width:100%}#khung .box5{width:100%}#khung .box6{width:100%}
 =======
 #khung .box4 #box4-t .box-left .box-style .box-style-sm .s1-1,#khung .box4 #box4-t .box-left .box-style .box-style-sm .s1-2,#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2-1,#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3-2,.box-sm1{width:20%;height:100%;float:left}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2-2,#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3-1,.box-sm2{width:60%;float:left;height:100%}#khung{width:100%}#khung .box1{width:100%}#khung .box2{width:100%}#khung .box3{width:100%}#khung .box4 #box4-t{background:rgba(0,0,0,0.75);width:100%;height:500px}#khung .box4 #box4-t .box-left{width:100%;height:500px}#khung .box4 #box4-t .box-left .box-style{width:100%;height:250px;margin-top:20%;padding-left:10%;position:relative}#khung .box4 #box4-t .box-left .box-style i{width:30px;height:30px;border-radius:50%;border:solid 1px #2dc;color:#2dc;text-align:center;line-height:30px;background:#f2f2f2;position:absolute;top:-10px;right:0}#khung .box4 #box4-t .box-left .box-style .box-style-sm{width:80%;height:30%;background:#4286f4;margin-left:20%}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s1{width:20%;height:100%;float:left;background:#4286f4}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2{width:60%;float:left;height:100%;background:-webkit-gradient(linear, left top, left bottom, color-stop(50%, #2dc), color-stop(50%, #4286f4));background:-webkit-linear-gradient(#2dc 50%, #4286f4 50%);background:-o-linear-gradient(#2dc 50%, #4286f4 50%);background:linear-gradient(#2dc 50%, #4286f4 50%)}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3{width:20%;height:100%;float:left;background:#2dc}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s1-1{background:#2dc}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2-1{background:#03a830}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3-1{background:-webkit-gradient(linear, left top, left bottom, color-stop(50%, #d6e22b), color-stop(50%, #03a830));background:-webkit-linear-gradient(#d6e22b 50%, #03a830 50%);background:-o-linear-gradient(#d6e22b 50%, #03a830 50%);background:linear-gradient(#d6e22b 50%, #03a830 50%)}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s1-2{background:#2dc}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s2-2{background:#4286f4}#khung .box4 #box4-t .box-left .box-style .box-style-sm .s3-2{background:#d6e22b}#khung .box4 #box4-t .box-left .box-content{width:100%;height:20%;margin-top:45%}#khung .box4 #box4-t .box-left .box-content h1{color:#03a830}#khung .box4 #box4-t .box-left .box-content p{color:#808080}#khung .box4 #box4-t .box-right{width:100%;height:500px}#khung .box4 #box4-t .box-right i{width:50px;height:50px;background:#03a830;color:#fff;border-radius:20%;text-align:center;font-size:25px;line-height:50px;margin-top:10%;margin-bottom:3%}#khung .box4 #box4-t .box-right h2{color:#03a830;margin-bottom:3%}#khung .box4 #box4-t .box-right p{color:#808080;font-size:12pt}#khung .box5{width:100%}#khung .box6{width:100%}
@@ -235,3 +236,80 @@
   position: absolute;
 }
 >>>>>>> 7887f8d1409d287a82e65ed8dbf0e1af279ddcdd
+=======
+#khung {
+  width: 100%;
+}
+#khung .box1 {
+  width: 100%;
+}
+#khung .box2 {
+  width: 100%;
+}
+#khung .box3 {
+  width: 100%;
+}
+#khung .box4 {
+  width: 100%;
+}
+#khung .box5 {
+  width: 100%;
+}
+#khung .box6 {
+  width: 100%;
+}
+#khung .box6 .hai {
+  background: #141e2b;
+  text-align: center;
+  height: 300px;
+  color: #fff;
+  width: 100%;
+}
+#khung .box6 .hai .hai00 {
+  width: 90%;
+  height: 1px;
+  opacity: 0.1;
+  background: #fff;
+  margin-left: 5%;
+  margin-top: 30px;
+}
+#khung .box6 .hai .btn-success {
+  margin-top: 20px;
+  background: #fff;
+  width: 145px;
+  height: 45px;
+  font-size: 14px;
+  letter-spacing: 0.04em;
+  color: #00f;
+  font-weight: bold;
+  border-color: #fff;
+}
+#khung .box6 .hai .btn-success:hover {
+  background: #00f;
+  border-color: #00f;
+  color: #fff;
+}
+#khung .box6 .hai .hai12 {
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 46px;
+  line-height: 60px;
+  font-weight: 400;
+}
+#khung .box6 .hai1 {
+  padding-left: 30px;
+  color: #fff;
+}
+#khung .box6 .hai111 img {
+  width: 70%;
+  height: 70%;
+}
+#khung .box6 .hai1111 {
+  color: #fff;
+}
+#khung .box6 .hai0001 {
+  width: 100%;
+  height: 100px;
+  background: #141e2b;
+}
+>>>>>>> c5074a5faf98afdd89229d12e410796eaa9c5aa2
